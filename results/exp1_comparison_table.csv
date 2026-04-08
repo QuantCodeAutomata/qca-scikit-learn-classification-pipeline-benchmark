@@ -1,0 +1,4 @@
+Classifier,Accuracy,Precision (macro),Recall (macro),F1-Score (macro)
+LogisticRegression,0.9111,0.9155,0.9111,0.9107
+KNeighborsClassifier,0.9111,0.9298,0.9111,0.9095
+SVC,0.9333,0.9345,0.9333,0.9333
